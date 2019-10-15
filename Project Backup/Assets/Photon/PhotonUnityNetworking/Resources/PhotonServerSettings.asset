@@ -22,10 +22,10 @@ MonoBehaviour:
     Server: 192.168.0.103
     Port: 5055
     Protocol: 0
-    EnableLobbyStatistics: 0
+    EnableLobbyStatistics: 1
     NetworkLogging: 1
   PunLogging: 0
-  EnableSupportLogger: 0
+  EnableSupportLogger: 1
   RunInBackground: 1
   StartInOfflineMode: 0
   RpcList:
